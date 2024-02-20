@@ -8,7 +8,7 @@
     >
         <a href="/">
             <h1 class="font-semibold">
-                Swoley <span class="text-indigo-400">Moley</span>
+                HellDivers <span class="text-red-500">2</span>
             </h1>
         </a>
         <button
