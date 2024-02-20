@@ -3,10 +3,10 @@
 </script>
 
 <div class="flex items-center gap-4">
-    <button class={"specialBtn " + (dark ? " bg-[#181b34]" : " ")}>
-        <p class="text-base sm:text-lg md:text-xl">Contact Us</p>
+    <button class={"specialBtn " + (dark ? " bg-[#e6e600]" : " ")}>
+        <p class="text-black sm:text-lg md:text-xl">Learn More</p>
     </button>
     <button class="specialBtnDark">
-        <p class="text-base sm:text-lg md:text-xl">Get Started &rarr;</p>
+        <p class="text-black sm:text-lg md:text-xl">Join The Fight &rarr;</p>
     </button>
 </div>

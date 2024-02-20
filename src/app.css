@@ -4,14 +4,20 @@
 
 html {
     scroll-behavior: smooth;
+    
 }
 
 * {
     font-family: 'Open Sans', sans-serif;
+    
 }
 
+section {
+    background-color: gray;
+}
 h1, h2, h3, .poppins {
     font-family: 'Poppins', sans-serif;
+    
 }
 
 span {
@@ -22,7 +28,8 @@ span {
 
 .bgGrid {
     background-size: 40px 40px;
-    background-image: linear-gradient(to right, grey 1px, transparent 1px), linear-gradient(to bottom, grey 1px, transparent 1px);
+    background-image: linear-gradient(to right, black 1px, transparent 1px), linear-gradient(to bottom, grey 1px, transparent 1px);
+    
 }
 
 button,
@@ -40,8 +47,7 @@ button,
 }
 
 button:hover {
-    border-color: #646cff;
-
+    border-color: black;
 }
 
 button:focus,
@@ -50,25 +56,25 @@ button:visable {
 }
 
 .specialBtn {
-    border-color: #646cff;
+    border-color: black;
 
 }
 
 .specialBtnDark {
-    background: #646cff;
+    background: #ecfb18;
     color: white;
 }
 
 .specialBtn:hover {
-    border-color: blue;
+    border-color: black;
 }
 
 .dropShadow {
-    filter: drop-shadow(-10.8923px 14.523px 35.0973px rbga(29,140,242, 0.2));
+    filter: drop-shadow(-10.8923px 14.523px 35.0973px rbga(247,255,25, 0.4));
 }
 
 .fadeIn {
-    animation: fadeIn 300ms ease-in forwads;
+    animation: fadeIn 300ms ease-in forwards;
 }
 
 @keyframes fadeIn {

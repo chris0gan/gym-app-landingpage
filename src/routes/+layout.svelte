@@ -21,7 +21,7 @@
     >
         <div class="flex items-center justify-between gap-4 border-b pb-2">
             <h1 class="font-semibold">
-                Swoley <span class="text-indigo-400">Moley</span>
+                HellDivers <span class="text-yellow-400">2</span>
             </h1>
             <button
                 on:click={() => ($openModal = false)}
@@ -38,7 +38,7 @@
                 <p
                     class="duration-200 group-hover:pl-2 poppins text-3xl font-semibold"
                 >
-                    Product <i class="fa-solid fa-chevron-right text-xl pl-4" />
+                    Game <i class="fa-solid fa-chevron-right text-xl pl-4" />
                 </p>
             </button>
             <button
@@ -48,7 +48,7 @@
                 <p
                     class="duration-200 group-hover:pl-2 poppins text-3xl font-semibold"
                 >
-                    Reviews <i class="fa-solid fa-chevron-right text-xl pl-4" />
+                    About <i class="fa-solid fa-chevron-right text-xl pl-4" />
                 </p>
             </button>
             <button
@@ -58,7 +58,7 @@
                 <p
                     class="duration-200 group-hover:pl-2 poppins text-3xl font-semibold"
                 >
-                    FAQs <i class="fa-solid fa-chevron-right text-xl pl-4" />
+                    Reviews <i class="fa-solid fa-chevron-right text-xl pl-4" />
                 </p>
             </button>
         </div>

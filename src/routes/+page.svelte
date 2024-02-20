@@ -9,7 +9,7 @@
 <main class="flex flex-col">
     <Hero />
     <Product />
-    <Reviews />
     <FAQs/>
+    <Reviews />
     <Conversion/>
 </main>

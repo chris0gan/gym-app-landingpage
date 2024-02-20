@@ -4,7 +4,7 @@
     >
         <div class="flex flex-col gap-4 md:col-span-2">
             <h1 class="font-semibold">
-                HellDivers <span class="text-indigo-400">Moley</span>
+                HellDivers <span class="text-red-500">2</span>
             </h1>
             <p>©2024 SWOLEY MOLEY LTD. All rights reserved.</p>
         </div>
